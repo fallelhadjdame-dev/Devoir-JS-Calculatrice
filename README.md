@@ -1,1 +1,1 @@
-# Devoir-JS-Calculette
+# Devoir-JS-Calculatrice
